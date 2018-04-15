@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/settings"
+        android:orderInCategory="100"
+        android:icon="@drawable/settings"
+        android:title="@string/settings"
+        app:showAsAction="always" />
+    <item
+    android:id="@+id/statistics"
+    android:orderInCategory="100"
+    android:icon="@drawable/statistics"
+    android:title="@string/statistics"
+    app:showAsAction="always" />
+    <item
+        android:id="@+id/impressum"
+        android:orderInCategory="100"
+        android:icon="@drawable/info"
+        android:title="@string/impressum"
+        app:showAsAction="always" />
+</menu>

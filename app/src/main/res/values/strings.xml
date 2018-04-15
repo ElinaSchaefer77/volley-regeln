@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Volley-Regeln</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="alle">alle</string>
+    <string name="einfach">einfach</string>
+    <string name="mittel">mittel</string>
+    <string name="schwer">schwer</string>
+
+    <string name="settings">Einstellungen</string>
+    <string name="statistics">Statistiken</string>
+    <string name="infos">Informationen</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ok">OK</string>
+    <string name="weiter">weiter</string>
+
+    <string name="answered_questions">Beantwortete Fragen:</string>
+    <string name="answered_d_questions">Beantwortete D-Fragen:</string>
+    <string name="answered_c_questions">Beantwortete C-Fragen:</string>
+    <string name="right_answered_questions">Richtig beantwortete Fragen:</string>
+    <string name="right_answered_d_questions">Richtig beantwortete D-Fragen:</string>
+    <string name="right_answered_c_questions">Richtig beantwortete C-Fragen:</string>
+    <string name="wrong_answered_questions">Falsch beantwortete Fragen:</string>
+    <string name="wrong_answered_d_questions">Falsch beantwortete D-Fragen:</string>
+    <string name="wrong_answered_c_questions">Falsch beantwortete C-Fragen:</string>
+    <string name="last_wrong_questions">Zuletzt falsche Fragen:</string>
+    <string name="last_wrong_d_questions">Zuletzt falsche D-Fragen:</string>
+    <string name="last_wrong_c_questions">Zuletzt falsche C-Fragen:</string>
+
+    <string name="skip">überspringen</string>
+
+    <string name="radio_all">C- und D-Schein-Fragen</string>
+    <string name="radio_c">C-Schein-Fragen</string>
+    <string name="radio_d">D-Schein-Fragen</string>
+    <string name="random_sort">Zufällige Sortierung</string>
+
+    <string name="impressum">Impressum</string>
+
+    <string name="hint">Hinweis</string>
+    <string name="hint_text">Die Fragen stammen vom <b>Nordbadischen Volleyballverband</b>. \r\n\r\n Vielen Dank an dieser Stelle dafür!\r\n\r\nDas Üben mit der App alleine ist nicht ausreichend. Aufstellungen,
+    Handzeichen und Schiedsrichterbogen sind nicht enthalten.\r\n\r\nEs wird zudem nicht für die Richtigkeit und die Aktualität der Fragen garantiert.\r\n\r\n
+    Bei Fragen, Anmerkungen oder anderen Anliegen, die die App betreffen können Sie eine E-Mail an elinaschaefer@googlemail.com senden.\r\n\r\nHinweis: Die Nummern in den Statistiken zu den falsch beantworteten Fragen beziehen sich auf die Fragen auf der Seite des Nordbadischen Volleyballverbands.\n\n
+        <b>Datenschutzrichtlinie</b>\n\nIch arbeite mit Crashlytics, Inc (\"Crashlytics\") um Fehler der App frühzeitig zu identifizieren. Das Tool dient dazu bei App Abstürzen Fehler zu indentifizieren und überträgt Informationen wie Gerätetyp, Betriebssystemversion und technische Daten über dein Smartphone an Crashlytics. Weder persönlich identifizierbare Daten noch deine IP-Adresse werden übertragen.
+        Die Datenschutzrichtlinien von Crashlytics können <a href="http://try.crashlytics.com/terms/">hier</a> eingesehen werden.</string>
+
+</resources>

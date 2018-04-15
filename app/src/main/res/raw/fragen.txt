@@ -1,0 +1,588 @@
+1 Gehört die Angriffslinie zur Vorderzone?
+a Ja.
+b Zur Hälfte.
+c Nein.
+2 Die Vorderzone geht von der Mitte der Mittellinie bis zur Angriffslinie. Welche Aussage ist richtig?
+a Die Vorderzone geht über die Seitenlinien hinaus und endet am Ende der Freizone.
+b Die Vorderzone endet an den Seitenlinien.
+c Die Angriffslinie gehört nicht zur Vorderzone.
+3 Wo wird die Netzhöhe gemessen?
+a In der Feldmitte und über den Seitenlinien.
+b Zwei Meter von den Seitenlinien.
+c An beliebiger Stelle.
+4 Wie viele Personen dürfen während des Spiels (ausgenommen die Auszeit) maximal auf einer Mannschaftsbank Platz nehmen?
+a 9.
+b 13.
+c 11.
+5 Welche Aussage stimmt?
+a Der Libero darf Mannschaftskapitän aber nicht Spielkapitän sein.
+b Der Libero darf Spielkapitän aber nicht Mannschaftskapitän sein.
+c Der Libero darf weder Mannschafskapitän noch Spielkapitän sein.
+6 Dürfen im Spielberichtsbogen nicht eingetragene Spieler, wenn sie ihre Spielerpässe im Verlauf des Spiels vorweisen, mitspielen?
+a Ja.
+b Nur, wenn die Spieler vor dem Einwechseln im Spielberichtsbogen nachgetragen worden sind.
+c Nein.
+7 Wo müssen sich die Wechselspieler während des Spiels aufhalten, wenn sie sich nicht aufwärmen?
+a Rechts und links vom 2. Schiedsrichter, stehend hinter den Bänken.
+b Auf der Seite des 2. Schiedsrichters, auf den Mannschaftsbänken sitzend.
+c Nach ihrem Belieben nahe dem Spielfeld.
+8 Wer darf am Einspielen teilnehmen?
+a Alle Mannschaftsmitglieder und Freunde der Spieler.
+b Nur die Mannschaftsmitglieder, welche in der Rubrik "Mannschaften" in den ersten zwölf Zeilen eingetragen sind.
+c Alle Mannschaftsmitglieder, welche in der Rubrik "Mannschaften" eingetragen sind.
+9 Welche Aussage stimmt? Die nicht im Spiel befindlichen Spieler dürfen sich mit Bällen aufwärmen; ...
+a während der Auszeit
+b während der Satzpause
+c während Auszeit und Satzpause
+10 Welche Aussage ist regelgerecht?
+a Alle Trikots einer Mannschaft müssen eine einheitliche Grundfarbe haben.
+b Alle Trikots einer Mannschaft müssen eine Nummer haben. Diese darf nur einmal vorhanden sein.
+c Die Liberos brauchen keine Trikotnummer zu haben.
+11 Der Mannschaftskapitän muss auf seinem Trikot unter der Brustnummer einen Streifen von 8 x 2 cm haben, damit man ihn sofort erkennt, wenn er das Spielfeld verlässt. Hier soll sichergestellt werden, dass sofort ein neuer Spielkapitän von der Mannschaftsführung benannt wird, um die Rechte wahrnehmen zu können.
+a Diese Aussage ist teilweise richtig.
+b Diese Aussage ist vollständig richtig.
+c Diese Aussage ist gänzlich falsch.
+12 Während des Spiels wechselt ein Spieler sein Trikot. Welche Aussage ist regelgerecht?
+a Das Trikot muss in Farbe, Modell und Nummerierung gleich sein.
+b Das Trikot darf auf dem Spielfeld gewechselt werden.
+c Das ist nicht zulässig.
+13 Darf ein Spieler Gegenstände tragen (Ringe, Schmuck etc.), die Verletzungen verursachen können?
+a Ja, denn es gibt keinen unmittelbaren Kontakt mit den Mitspielern und Gegnern.
+b Nein, es sei denn, sie werden so geschützt (z.B. durch Tape), dass von ihnen keine Gefahr mehr ausgeht.
+c Nur mit Erlaubnis des 1. Schiedsrichters.
+14 Wer übernimmt die Aufgaben des Mannschaftskapitäns, wenn sich dieser nicht auf dem Spielfeld befindet?
+a Der Mannschaftskapitän behält seine Aufgaben.
+b Der Spieler, der vom Mannschaftskapitän bzw. Trainer als neuer Spielkapitän benannt wird.
+c Der Spieler, der vom 1. Schiedsrichter dazu benannt wird.
+15 Wann hat der Spielkapitän das Recht, dem Schiedsrichter Fragen zu stellen?
+a Wenn der Ball "aus dem Spiel" ist.
+b Nur während der Auszeit der eigenen Mannschaft.
+c Nur während der Satzpausen.
+16 Darf ein Spielkapitän Fragen über die Auslegung von Regeln an den 2. Schiedsrichter richten, wenn der Ball aus dem Spiel ist?
+a Ja, alle Fragen.
+b Ja, wenn sich das Anliegen auf den Aufgabenbereich des 2. Schiedsrichters bezieht.
+c Nein, auf keinen Fall.
+17 Wer darf während einer Spielunterbrechung mit den Schiedsrichtern sprechen, wenn es um andere Angelegenheiten als die Beantragung von Auszeiten oder Wechsel geht?
+a Nur der Trainer.
+b Nur der Spielkapitän.
+c Trainer und Spielkapitän.
+18 Eine Mannschaft hat keinen Trainer im Spielberichtsbogen eingetragen. Welche Aussage ist richtig?
+a Wenn der Mannschaftskapitän auf der Mannschaftsbank sitzt, darf er einen Antrag stellen, um sich selbst einzuwechseln.
+b Wenn der Mannschaftskapitän auf der Mannschaftsbank sitzt, darf er als Co-Trainer fungieren.
+c Der Mannschaftskapitän ist Spielkapitän. Wird er ausgewechselt und benennt keinen Spielkapitän, darf über die restliche Dauer des laufenden Satzes keiner einen Antrag auf normale Unterbrechungen stellen.
+19 Darf die im Spielberichtsbogen eingetragene Rotationsfolge vor Satzbeginn vom Gegner eingesehen werden?
+a Ja.
+b Keine Regelung vorgesehen.
+c Nein.
+20 Hat ein Trainer das Recht, sich während einer Spielunterbrechung mit Fragen an den 1. Schiedsrichter zu wenden?
+a Nein.
+b Nur, wenn ihm die Schiedsrichterentscheidung nicht klar ist.
+c Ja.
+21 Wer darf während eines Wechsels in der Freizone an die Seitenlinie gehen und mit den auf dem Spielfeld befindlichen Spielern sprechen?
+a Nur der Trainer.
+b Sowohl der Trainer als auch die Wechselspieler.
+c Der aus der Aufwärmzone herbeigelaufene Mannschaftskapitän.
+22 Darf der Trainer während des Spiels seinen auf dem Spielfeld befindlichen Spielern Anweisungen erteilen?
+a Nur dann, wenn er auf der Mannschaftsbank sitzt.
+b Nein.
+c Ja, er muss dabei entweder auf der Mannschaftsbank sitzen oder sich in der Coachingzone befinden und darf das Spiel nicht behindern.
+23 Der Mannschaftskapitän sitzt auf der Bank und gibt seinen auf dem Spielfeld befindlichen Mitspielern wertvolle Tipps. Ist das erlaubt?
+a Nein.
+b Nur dann, wenn sich kein Trainer auf der Mannschaftsbank befindet.
+c Ja.
+24 Falls der Trainer seine Mannschaft verlassen muss, darf der Co-Trainer mit Genehmigung des 1. Schiedsrichters die Aufgaben des Trainers übernehmen. Welche Aussage ist richtig?
+a Wenn kein Co-Trainer eingetragen ist, darf jeder andere Spieler die Aufgaben des Trainers übernehmen.
+b Dies ist gestattet, wenn sich der Trainer beim 1. Schiedsrichter abmeldet, weil er kurz weg muss.
+c Dies ist nicht gestattet, wenn der Trainer nach einer Hinausstellung oder Disqualifikation den Wettkampfbereich verlassen muss.
+25 Der Ball fliegt nach der dritten Berührung einer Mannschaft ins Netz. Wann pfeift der 1. Schiedsrichter?
+a Wenn der Ball den Boden berührt oder zum vierten Mal gespielt wird.
+b Sobald er sicher ist, dass der Ball nach der dritten Berührung nicht über das Netz fliegen kann.
+c Sofort nachdem der Ball nach der dritten Berührung ins Netz geflogen ist.
+26 Zwei Gegenspieler begehen unmittelbar nacheinander den gleichen Regelverstoß. Welcher davon wird geahndet?
+a Keiner.
+b Beide, weil die Fehler fast gleichzeitig begangen wurden.
+c Der zuerst begangene Fehler.
+27 Spielzug. Welche Aussage ist richtig?
+a Ein vollendeter Spielzug ist die Folge von Spielaktionen vom Moment des Aufschlags bis der Ball "aus dem Spiel" ist.
+b Bei Unterbrechung eines Spielzugs ("Doppelfehler/Spielzugwiederholung") wird trotzdem ein Punkt vergeben.
+c Ein vollendeter Spielzug ist die Folge von Spielaktionen vom Moment des Aufschlags bis der Ball "aus dem Spiel" ist und ein Punkt zuerkannt wurde.
+28 Mannschaft A begeht beim Spielstand von 16:16 im Entscheidungssatz einen Aufschlagfehler. Was folgt danach?
+a Nur Punkt und Aufschlag für Mannschaft B.
+b Mannschaft B gewinnt einen Punkt und damit auch das Spiel.
+c Punkt und Aufschlag für Mannschaft B. Das Spiel wird so lange fortgesetzt, bis eine Mannschaft einen Vorsprung von zwei Punkten erzielt hat.
+29 Der 1. Schiedsrichter vollzieht die Auslosung. Der Gewinner der Auslosung wählt die Spielfeldseite. Welche Möglichkeiten verbleiben dem Verlierer der Auslosung?
+a Er erhält nur das Recht den ersten Aufschlag auszuführen.
+b Er erhält nur das Recht den ersten Aufschlag anzunehmen.
+c Er hat das Recht zu wählen, den ersten Aufschlag auszuführen oder ihn anzunehmen.
+30 Welche Aussage beschreibt am treffendsten das Einspielen?
+a Der 1. Schiedsrichter pfeift nach der Auslosung die Mannschaften zum "Einschlagen am Netz" auf die Position IV, dann auf die Position II und zum Aufschläge üben.
+b Der 1. Schiedsrichter pfeift nach der Auslosung und nachdem die Rubrik "Mannschaften" unterschrieben ist das Einspielen an und nach zehn Minuten ab. Er gibt nur dann weiteres Signal, wenn es nicht von alleine funktioniert.
+c Der 1. Schiedsrichter pfeift nach der Auslosung und nachdem die Rubrik "Mannschaften" unterschrieben ist das Einspielen an und auf Bitten beider Mannschaftskapitäne ab.
+31 Wann darf eine Mannschaft den Rest des Satzes mit fünf Spielern zu Ende spielen?
+a Wenn ein Spieler wegen einer Sanktion das Feld verlassen muss und nicht ersetzt werden kann.
+b Wenn ein Spieler wegen Verletzung ausfällt und nicht ersetzt werden kann.
+c Niemals.
+32 Wer gehört alles zur Startaufstellung?
+a Die Spieler, einschließlich des spielenden Liberos, welche zu Spielbeginn auf dem Spielfeld stehen.
+b Die Spieler, ohne den spielenden Libero, welche zu Satzbeginn auf dem Spielfeld stehen.
+c Die Spieler, einschließlich des spielenden Liberos, welche zu Satzbeginn auf dem Spielfeld stehen.
+33 Der 2. Schiedsrichter stellt vor Satzbeginn fest, dass sich auf dem Spielfeld ein Spieler befindet, dessen Trikotnummer auf dem Aufstellungsblatt nicht vorhanden ist. Wie muss entschieden werden?
+a Verwarnung wegen geringfügiger Unkorrektheit, weil das Aufstellungsblatt fehlerhaft war.
+b Der Spieler bleibt in jedem Fall auf dem Spielfeld. Das Aufstellungsblatt und der Spielberichtsbogen werden korrigiert.
+c Der Spieler, dessen Trikotnummer auf dem Aufstellungsblatt vermerkt ist, muss den "falschen" Spieler ersetzen. Soll der Spieler auf dem Spielfeld verbleiben, so ist das der erste normale Wechsel dieser Mannschaft.
+34 Ein Spieler (nicht der Aufschlagspieler) tritt im Augenblick des Aufschlags über die Begrenzungslinie des Spielfeldes hinaus. Ist das zulässig?
+a Ja.
+b Nein, der Aufschlag wird wiederholt.
+c Nein, Punkt und Aufschlag für den Gegner.
+35 Was ist im Augenblick des Aufschlags für die Beurteilung des richtigen Standortes der jeweiligen Vorder- und Hinterspieler zueinander maßgebend?
+a Die Stellung des der Mittellinie am nächsten befindlichen vorderen Fußes.
+b Die Stellung des der Mittellinie am nächsten befindlichen hinteren Fußes.
+c Die Körperstellung (Brusthöhe).
+36 Wie lange sind die Spieler beim Aufschlag an die Rotationsfolge gebunden?
+a Bis der Aufschläger den Ball zum Aufschlag hochgeworfen hat.
+b Bis der Ball das Netz überflogen hat.
+c Bis der Aufschlag ausgeführt wurde (Zeitpunkt der Ballberührung).
+37 Wenn der aufschlagende Spieler im Moment der Ausführung des Aufschlags die Grundlinie berührt und die annehmende Mannschaft einen Positionsfehler begeht, hat der 1. Schiedsrichter auf...
+a Doppelfehler und Spielzugwiederholung zu entscheiden.
+b Punkt und Aufschlag für die annehmende Mannschaft zu entscheiden.
+c Punkt und Aufschlag für die aufschlagende Mannschaft zu entscheiden.
+38 Die Rotationsfolge ...
+a ist die Reihenfolge der Wechsel.
+b wird dann eingehalten, wenn der Libero für jeden Hinterspieler eingetauscht wird.
+c wird durch die Startaufstellung der Mannschaft festgelegt.
+39 Wie wird eine aufschlagende Mannschaft bestraft, wenn ein Rotationsfehler in ihrer Aufstellung festgestellt wird?
+a Die Mannschaft erhält eine Verwarnung, die von ihr erzielten Punkte sind ungültig.
+b Die Mannschaft behält den Aufschlag, die von ihr in der falschen Aufstellung erzielten Punkte sind ungültig.
+c Punkt und Aufschlag für den Gegner. Berichtigung der Aufstellung. Alle feststellbaren Punkte, die in der falschen Aufstellung erzielt wurden, sind ungültig.
+40 Bei einer falschen Aufstellung von Mannschaft A erzielt Mannschaft B fünf Punkte. Dann wird das Spiel unterbrochen und Mannschaft A nimmt die richtige Aufstellung ein. Wie ist zu verfahren?
+a Die Punkte bleiben gültig, der letzte Aufschlag wird wiederholt.
+b Punkt und Aufschlag für Mannschaft B. Die Punkte der Mannschaft B bleiben gültig.
+c Punkt und Aufschlag für Mannschaft B. Die fünf erzielten Punkte der Mannschaft B werden gestrichen.
+41 Fehlerhafte Aufstellung von Mannschaft A. Es ist nicht zu ermitteln, wann der Fehler passiert ist. Wie entscheidet der 1. Schiedsrichter?
+a Der Spielzug wird wiederholt.
+b Punkt und Aufschlag für Mannschaft B.
+c Der Satz wird neu angefangen.
+42 Der Ball berührt den Boden so, dass die Spielfeldlinie an ihrer Außenseite noch berührt wird. Ist dieser Ball "AUS"?
+a Ja, weil er die Spielfeldlinie nicht vollständig berührt.
+b Nein, weil die vertikale Projektion des Balles die gesamte Linienbreite abdeckt.
+c Nein, weil der Ball die Spielfeldlinie berührt.
+43 Nach einer Blockaktion berührt der Ball das Netz außerhalb der Antenne. Ist das ein Fehler?
+a Nein, denn eine Netzberührung durch den Ball ist immer erlaubt.
+b Ja, denn eine Netzberührung durch den Ball außerhalb der Antenne ist nicht gestattet.
+c Ja, aber nur dann, wenn dabei auch das Netz außerhalb der Antenne berührt wird.
+44 Ein Spieler "rettet" den Ball auf seiner Seite des Netzes, indem er hinter die Mannschaftsbank läuft und von dort den Ball zu seiner Mannschaft zurückspielt. Ist das regelgerecht?
+a Nein.
+b Wenn der Libero den Ball im oberen (Finger-)Zuspiel spielt, dann nicht.
+c Ja.
+45 Darf ein Spieler bei der Aktion "Schmettern" mit der Hand über das Netz greifen?
+a Ja.
+b Ja, nach der Ballberührung auf der eigenen Seite, wenn sich bereits der Ball von der Hand gelöst hat.
+c Nein.
+46 Wenn zwei Spieler derselben Mannschaft den Ball gleichzeitig berühren, gilt dies...
+a beim Block als eine Berührung, sonst als zwei Berührungen.
+b immer als eine Berührung.
+c als Doppelberührung.
+47 Was ist ein Doppelfehler?
+a Wenn Spieler derselben Mannschaft zur gleichen Zeit Fehler begehen.
+b Wenn Spieler derselben Mannschaft hintereinander Fehler begehen.
+c Wenn Gegenspieler gleichzeitig Fehler begehen.
+48 Ein Spieler hilft nach einer Ballberührung seinem Mitspieler einen "Übertritt“ zu vermeiden. Ist das erlaubt?
+a Ja.
+b Nur, wenn Verletzungsgefahr besteht.
+c Nein.
+49 Mit welchem Körperteil darf der Ball berührt werden?
+a Nur mit den Händen, den Armen und dem Kopf.
+b Mit jedem Körperteil.
+c Nur mit jedem Körperteil oberhalb der Gürtellinie.
+50 Erste Ballberührung einer Mannschaft. In welchem Fall liegt ein Regelverstoß vor?
+a Abwehr des Angriffsschlags mit geöffneten Handflächen.
+b Ein Spieler spielt den Ball so, dass er als gefangen beurteilt werden muss.
+c Baggerabwehr des Angriffsschlags, hierbei Doppelberührung (Oberarm, Brust) in einer Aktion.
+51 Mannschaft A spielt den Ball über den Antennenstab in die gegnerische Spielfeldhälfte. Dort berührt der Ball den Boden. Welche Entscheidung hat der Schiedsrichter zu treffen?
+a Der Ball ist "in". Punkt und Aufschlag für Mannschaft A.
+b Der Ball ist "aus". Punkt und Aufschlag für Mannschaft B.
+c Doppelfehler. Die genaue Lage des Balles oberhalb der Antenne kann nicht richtig beurteilt werden.
+52 Die Annahme fliegt durch den Außensektor in die gegnerische Freizone. Welche Aussage ist richtig?
+a Der Ball muss auf derselben Seite vollständig oder teilweise durch den Außensektor zurückgespielt werden.
+b Der Spieler, welcher dem Ball hinterherläuft, darf durch das Spielfeld des Gegners in dessen Freizone laufen.
+c Der Spieler darf den Ball hinter der gegnerischen Mannschaftsbank spielen.
+53 Darf während eines Spielzugs die gegnerische Spielfeldhälfte mit den Füßen berührt werden?
+a Ja, wenn ein Teil des Fußes (der Füße) sich auf der Mittellinie oder direkt über ihr befindet.
+b Ja, mit einem ganzen Fuß. Der Gegner darf dabei jedoch nicht behindert werden.
+c Nein.
+54 Darf während eines Spielzugs die gegnerische Spielfeldhälfte mit den Händen berührt werden?
+a Ja, das Berühren des gegnerischen Feldes ist mit jedem Körperteil oberhalb der Füße erlaubt, sofern keine Behinderung des Gegners vorliegt.
+b Ja, solange sich ein Teil der Hand auf oder über der Mittellinie befindet.
+c Nein.
+55 Nach einem Angriffsschlag (Ball geht im gegnerischen Feld auf den Boden) darf ein Spieler...
+a in die gegnerische Spielfeldhälfte eindringen.
+b NICHT in die gegnerische Spielfeldhälfte eindringen.
+c die geballte Faust zum Gegner strecken.
+56 Darf ein Spieler nach einem Ballkontakt die Freizone der anderen Mannschaft berühren?
+a Ja.
+b Ja, wenn er dabei das gegnerische Spiel nicht behindert.
+c Nein.
+57 Spielaktion. Welche Aussage stimmt?
+a Die Spielaktion "Block" ist nach der Ballberührung abgeschlossen.
+b Eine Spielaktion kann auch eine Handlung von Spielern OHNE tatsächliche Ballberührung sein.
+c Bei einem Blockversuch ist eine nicht spielbeeinflussende Netzberührung erlaubt, weil der Ball nicht berührt wurde.
+58 Ein Spieler berührt nach der Landung von einem Block beim Umdrehen das Netz. Ist das erlaubt?
+a Ja, wenn das gegnerische Spiel nicht beeinflusst wird.
+b Nein.
+c Wenn der Gegner protestiert, muss der Schiedsrichter pfeifen.
+59 Beim Zuspiel berührt der Spieler die Antenne oberhalb der Netzoberkante. Ist das ein Fehler?
+a Ja, denn die Antennenberührung findet während einer Spielaktion statt.
+b Nein, denn die Antennenberührung erfolgte unabsichtlich.
+c Nein, denn die Antennenberührung war nicht spielbeeinflussend.
+60 Der Ball drückt das Netz gegen einen Spieler der Mannschaft B. Wie ist zu entscheiden?
+a Fehler der Mannschaft A, weil der Ball den Gegner behindert hat.
+b Kein Fehler.
+c Fehler der Mannschaft B, weil der Spieler das Netz berührt hat.
+61 Ist es ein Fehler, wenn ein Spieler beim Block den Antennenstab oberhalb des Netzes berührt?
+a Ja, weil die Antennenberührung innerhalb einer Spielaktion erfolgt.
+b Ja, aber nur dann, wenn gleichzeitig auch das Netz berührt wird.
+c Nein.
+62 Ein Spieler berührt während einer Angriffsaktion das Netz außerhalb der Antenne. Der Schiedsrichter lässt weiterspielen. Handelt er richtig?
+a Nein, denn eine Netzberührung durch Spieler ist immer ein Fehler.
+b Ja, denn die Netzberührung außerhalb der Antenne ist auch während einer Spielaktion erlaubt.
+c Nein, denn eine Netzberührung auf der gesamten Länge des Netzes ist während einer Spielaktion als Fehler zu ahnden.
+63 Zu welchem Zeitpunkt hat der 1. Schiedsrichter den Aufschlag zu bewilligen?
+a Der Aufschlagspieler betritt die Aufschlagzone.
+b Der Aufschlagspieler zeigt durch Handzeichen seine Spielbereitschaft an.
+c Beide Mannschaften sind spielbereit und der Aufschlagspieler befindet sich im Ballbesitz.
+64 Der Aufschlagspieler steht in der Aufschlagzone mit dem Rücken zum Spielfeld und küsst den Ball ausgiebig. Die anderen Teilnehmer sind spielbereit. Welche Handlung des 1. Schiedsrichters entspricht den Regeln?
+a Er bewilligt den Aufschlag mittels Pfiff und Offiziellem Handzeichen.
+b Er wartet, bis sich der Aufschlagspieler umgedreht und bewilligt dann den Aufschlag mittels Pfiff und Offiziellem Handzeichen.
+c Er bittet den Spielkapitän zu sich und verhängt eine Sanktion wegen Verzögerung gegen die Mannschaft.
+65 Der Aufschlag gilt als ausgeführt, wenn nach dem Anpfiff des 1. Schiedsrichters...
+a der Ball vom Aufschlagspieler hochgeworfen wurde.
+b der Ball beim Schlag berührt worden ist.
+c der Ball das Netz überflogen hat.
+66 Der Aufschlagspieler wirft nach dem Pfiff des 1. Schiedsrichters zur Aufschlagbewilligung den Ball hoch und lässt ihn ohne Berührung zu Boden fallen. Welche Aussage ist richtig?
+a Der Aufschlag muss nach dem Anpfiff innerhalb von acht Sekunden erfolgt sein. In dieser Zeit darf der Spieler mit dem Ball machen, was er will.
+b Punkt und Aufschlag für den Gegner.
+c Der Schiedsrichter bewilligt mit einem weiteren Pfiff den Aufschlag erneut. Jetzt muss der Aufschlagspieler direkt nach dem Pfiff aufschlagen.
+67 Der Aufschlagspieler wirft den Ball hoch, schlägt ihn aber nicht. Der Ball berührt beim Herunterfallen die Schulter des Aufschlagspielers. Was ist die Folge?
+a Der Aufschlag darf wiederholt werden. Der 1. Schiedsrichter pfeift erneut.
+b Der Aufschlag gilt als ausgeführt, somit Punkt und Aufschlag für den Gegner.
+c Der Aufschlag darf wiederholt werden. Es wird nicht erneut gepfiffen.
+68 Der 1. Schiedsrichter hat den Aufschlag bewilligt. Nun stellt die Mannschaft fest, dass der falsche Spieler in der Aufschlagzone steht. Was ist zulässig?
+a Der Spieler, welcher laut Rotationsordnung den Aufschlag ausführen muss, nimmt den Ball und schlägt innerhalb der zulässigen Zeit nach einem weiteren Pfiff auf.
+b Punkt und Aufschlag für den Gegner.
+c Der Spieler, welcher laut Rotationsordnung den Aufschlag ausführen muss, nimmt den Ball und schlägt innerhalb der zulässigen Zeit ohne weiteren Pfiff auf.
+69 Der Aufschlagspieler springt in der Aufschlagzone hinter der Grundlinie ab, führt im Sprung den Aufschlag aus und landet nach der Ausführung im Spielfeld. Welche Entscheidung ist richtig?
+a Immer ein Fehler.
+b Fehler, wenn die Ballberührung über dem Spielfeld stattfindet.
+c Kein Fehler.
+70 Der Aufschlagspieler übertritt nach dem Pfiff zum Aufschlag die seitliche Begrenzung der Aufschlagzone, befindet sich aber im Moment des Aufschlags wieder innerhalb der Aufschlagzone. Wie ist zu entscheiden?
+a Kein Fehler.
+b Spielzugverlust.
+c Aufschlag wird wiederholt.
+71 Der Aufschlag wird vor dem Pfiff des 1. Schiedsrichters ausgeführt. Was trifft zu?
+a Falls Aufschlag fehlerhaft: Aufschlagwechsel; sonst Wiederholung.
+b Er ist ungültig und muss wiederholt werden.
+c Aufschlagwechsel.
+72 Mehrere Spieler der aufschlagenden Mannschaft stellen sich so zusammen, dass sie den Aufschlagspieler absichtlich verdecken; der Ball wird vom Aufschlagspieler über diese Spielergruppe geschlagen. Was tut der 1. Schiedsrichter?
+a Er fordert die Mannschaft auf, zwischen den Spielern einen Abstand von mindestens einer Armlänge einzuhalten.
+b Er erteilt eine Verwarnung.
+c Er erkennt auf Sichtblock sowie Punkt und Aufschlag für den Gegner.
+73 Der Aufschlagspieler von Mannschaft A berührt beim Schlagen des Balles die Grundlinie. Bei Mannschaft B wird ein Positionsfehler festgestellt. Welcher Schiedsrichter hat wie zu entscheiden?
+a Der 1. Schiedsrichter entscheidet auf Fehler des Aufschlagspielers; d.h. Punkt für Mannschaft B, welche auch das Aufschlagrecht erhält.
+b Der 2. Schiedsrichter entscheidet auf Doppelfehler und Spielzugwiederholung.
+c Der 2. Schiedsrichter entscheidet auf Fehler der annehmenden Mannschaft, d.h. Punkt für Mannschaft A, welche weiter aufschlägt.
+74 Angriffsschlag eines Hinterspielers oberhalb der Netzoberkante nach Absprung in der Vorderzone. Ist das ein Fehler des Hinterspielers, auch wenn der Ball anschließend den übergreifenden Block des Gegners berührt?
+a Nein.
+b Ja.
+c Ja, aber nur, wenn der Ball danach in die Spielfeldhälfte der blockenden Mannschaft gelangt.
+75 Ein Hinterspieler spielt den Ball nach Absprung in der Vorderzone über das Netz. Ist dies regelgerecht?
+a Ja.
+b Ja, wenn sich der Ball beim Berühren nicht vollständig oberhalb der Netzoberkante befindet.
+c Nein.
+76 Ein Hinterspieler springt zwischen den gedachten Verlängerungen der Angriffs- und Mittellinie in der Freizone ab und schmettert den sich vollständig oberhalb der Netzoberkante befindlichen Ball zum Gegner. Ist das ein Fehler?
+a Nein, denn der Hinterspieler ist außerhalb des Spielfeldes abgesprungen.
+b Nein, wenn ein übergreifender Block verhindert, dass der Ball die senkrechte Netzebene überquert..
+c Ja.
+77 Der Ball wird nach dem Aufschlag durch einen gegnerischen Angriffsschlag direkt zurückgespielt. Ist das ein Fehler?
+a Ja, wenn sich der Ball beim Angriffsschlag in der Vorderzone und vollständig oberhalb der Netzoberkante befindet.
+b Ja, in jedem Fall.
+c Nein.
+78 Dürfen Hinterspieler einen Block ausführen?
+a Ja.
+b Ja, aber der Ball muss nach dem Block im eigenen Feld bleiben.
+c Nein.
+79 Wie ist zu entscheiden, wenn der Ball nach der Berührung der Netzoberkante und des Blockes in das Feld des Angreifers zurückprallt?
+a Der Mannschaft stehen erneut drei Ballberührungen zu.
+b Der Spielzug wird wiederholt.
+c Bei einer weiteren Ballberührung wird auf "vier Schläge" entschieden.
+80 Der Ball berührt zwei Blockspieler der Mannschaft A unmittelbar nacheinander in einer Aktion. Wie entscheidet der 1. Schiedsrichter?
+a Gilt als ein Ballkontakt, danach sind noch drei Ballberührungen der Mannschaft A zulässig.
+b Gilt als ein Ballkontakt, jedoch darf keiner von beiden Blockspielern die nächste Ballberührung ausführen.
+c Gilt als zwei Berührungen, danach ist nur noch eine Ballberührung der Mannschaft A zulässig.
+81 Dürfen die Hände der Blockspieler den Ball im gegnerischen Spielraum berühren?
+a Nein.
+b Ja, aber nur nach der dritten Ballberührung des Gegners.
+c Ja, wenn der Gegner seinen Angriff abgeschlossen hat.
+82 Wie oft darf eine Mannschaft, nachdem sie geblockt hat, den Ball noch spielen?
+a Ein- oder zweimal, in Abhängigkeit von der Anzahl der Spieler, die den Ball beim Block berührt haben.
+b Zweimal, denn die Blockberührung wird als die erste Ballberührung gewertet.
+c Dreimal, denn die Blockberührung zählt nicht zu den erlaubten drei Ballberührungen.
+83 Nach einer Blockberührung wird der Ball von einem der Blockspieler im Sprung über das Netz geschmettert. Ist dies zulässig?
+a Nein.
+b Nur, wenn der Blockspieler den Ball beim Gruppenblock nicht berührt hat.
+c Ja.
+84 Ein Aufschlag wird geblockt. Ist das ein Fehler?
+a Nein.
+b Nur, wenn der Ball vom Block direkt zum Gegner gespielt wird.
+c Ja.
+85 Der Aufschlag wird durch einen Angriffsschlag direkt zurückgespielt. Ist das ein Regelverstoß?
+a Ja, in jedem Fall.
+b Nein.
+c Ja, wenn sich beim Angriffsschlag der Ball über der Vorderzone und vollständig oberhalb der Netzoberkante befindet.
+86 Wie ist zu entscheiden, wenn nach einer gleichzeitigen Ballberührung über dem Netz durch zwei Gegenspieler der Ball auf der Seite von Mannschaft A außerhalb des Spielfeldes zu Boden geht?
+a Der Aufschlag wird wiederholt.
+b Die Mannschaft A gewinnt den Spielzug.
+c Die Mannschaft B gewinnt den Spielzug.
+87 Wie viele normale Wechsel darf eine Mannschaft höchstens in einem Satz beantragen?
+a 3.
+b 6.
+c 12.
+88 Wann darf ein Wechsel beantragt werden?
+a Wenn die Mannschaft das Recht zum Aufschlag hat.
+b Nur bei Satzende.
+c Wenn der Ball "aus dem Spiel" ist.
+89 Wer hat das Recht, Auszeiten und Wechsel zu beantragen?
+a Trainer und Spielkapitän.
+b Der Spielkapitän, auch wenn der Trainer anwesend ist.
+c Nur der Trainer.
+90 Können nach Eintragung der Startaufstellungen der Mannschaften im Spielberichtsbogen noch vor Anpfiff des Spiels Wechsel vorgenommen werden?
+a Ja, mit Streichung und Neueintragung.
+b Nur als normaler Wechsel mit entsprechender Eintragung.
+c Nein.
+91 Wechsel bei Mannschaft A. Darf Mannschaft B ebenfalls einen Wechsel beantragen, ohne dass das Spiel zwischendurch fortgesetzt wurde?
+a Ja.
+b Nur im Falle einer Verletzung.
+c Nein.
+92 Welche Reihenfolge von Anträgen ist NICHT zulässig?
+a Auszeit, Wechsel, Auszeit.
+b Wechsel, Auszeit, Wechsel.
+c Auszeit, Auszeit, Wechsel.
+93 Können mehrere Wechsel gleichzeitig vorgenommen werden?
+a Ja, bei entsprechendem Antrag.
+b Nur bei Verletzungen.
+c Nein.
+94 Eine Auszeit dauert:
+a 20 Sekunden.
+b 30 Sekunden.
+c 60 Sekunden.
+95 Wo haben sich die Spieler während der Auszeit aufzuhalten?
+a Die im Spiel befindlichen Spieler müssen in die Freizone nahe ihrer Mannschaftsbank kommen.
+b Die Spieler dürfen an die Seitenlinie herantreten, ohne das Spielfeld zu verlassen.
+c Alle Spieler müssen in die Freizone nahe ihrer Mannschaftsbank kommen.
+96 Darf ein ausgewechselter Spieler der Startaufstellung im gleichen Satz wieder normal eingewechselt werden, wenn dabei die Zahl der zulässigen Wechsel nicht überschritten wird?
+a Ja, aber nur gegen den für ihn eingewechselten Spieler.
+b Ja, für jeden Spieler.
+c Nur im Falle einer Verletzung des Wechselspielers.
+97 Darf ein aus dem Spiel genommener Wechselspieler nochmals im selben Satz eingewechselt werden?
+a Ja, jedoch nur auf eine andere Position.
+b Nur bei Verletzungen, wenn ein normaler Wechsel nicht mehr möglich ist.
+c Nein.
+98 Ein Spieler verletzt sich und könnte erst in ein paar Minuten weiterspielen. Wechselspieler sind vorhanden. Wie ist zu verfahren?
+a Der Spieler ist unverzüglich normal auszuwechseln.
+b Der 1. Schiedsrichter gewährt eine zusätzliche Auszeit.
+c Dem Spieler ist eine Wiederherstellungszeit von drei Minuten zu gewähren.
+99 Ein Spieler verletzt sich und kann nicht normal ausgewechselt werden. Wie ist zu verfahren?
+a Die betreffende Mannschaft hat den Satz verloren.
+b Die betreffende Mannschaft darf mit fünf Spielern den Satz zu Ende spielen.
+c Der verletzte Spieler darf ausnahmsweise ausgewechselt werden.
+100 Darf ein Spieler der Startaufstellung, der zunächst ausgewechselt und danach auf seinen Platz zurückgewechselt wurde, während desselben Satzes nochmals ausgewechselt werden?
+a Ja, immer.
+b Ja, wenn er sich verletzt.
+c Nein.
+101 Hinausstellung eines Spielers im ersten Satz. Die möglichen normalen Wechsel sind bereits durchgeführt. Wie ist zu verfahren?
+a Ein Wechsel wird ausnahmsweise genehmigt.
+b Die Mannschaft verliert das Spiel.
+c Die Mannschaft verliert den Satz.
+102 Disqualifikation eines Spielers. Die betreffende Mannschaft besteht aus 8 Spielern. Ein normaler Wechsel ist nicht mehr möglich. Welche Entscheidung ist richtig?
+a Die betreffende Mannschaft verliert das Spiel.
+b Die betreffende Mannschaft verliert den Satz.
+c Ein Wechsel wird ausnahmsweise genehmigt.
+103 Wenn eine Mannschaft einen unrechtmäßigen Wechsel ausgeführt hat, ist wie folgt vorzugehen:
+a Doppelfehler, weil der Schreiber den unrechtmäßigen Wechsel nicht hätte zulassen dürfen.
+b Punkt und Aufschlag für den Gegner; der unrechtmäßige Wechsel ist rückgängig zu machen; alle in dieser Aufstellung erzielten Punkte sind abzuerkennen. Die Punkte des Gegners bleiben gültig.
+c Der Wechsel wird als ausnahmsweiser Wechsel im Spielberichtsbogen ins Feld "Bemerkungen" eingetragen.
+104 Wie viel Zeit ist für einen Wechsel vorgesehen?
+a Maximal dreißig Sekunden.
+b Maximal 1 Minute.
+c Keine Zeitangabe; die Wechsel sind unverzüglich durchzuführen.
+105 Der Trainer beantragt eine Auszeit beim 2. Schiedsrichter, nachdem der 1. Schiedsrichter bereits zum Aufschlag angepfiffen hat. Dies ist der erste derartige Vorfall im Spiel. Welche Entscheidung ist richtig?
+a Der 2. Schiedsrichter darf das bereits angepfiffene Spiel nicht unterbrechen, er weist den Antrag ohne weitere Folgen zurück.
+b Der 2. Schiedsrichter unterbricht das Spiel. Der 1. Schiedsrichter lehnt den Antrag ab und spricht eine Verwarnung wegen Verzögerung gegen die Mannschaft wegen des zu spät gestellten Antrages aus.
+c Der 2. Schiedsrichter unterbricht das Spiel. Der 1. Schiedsrichter lehnt den Antrag ab und spricht eine Bestrafung wegen Verzögerung gegen die Mannschaft wegen des zu spät gestellten Antrages aus.
+106 Der Trainer beantragt eine Auszeit beim 2. Schiedsrichter, nachdem der 1. Schiedsrichter bereits zum Aufschlag angepfiffen hat. Dies ist der zweite derartige Vorfall im Spiel. Welche Entscheidung ist richtig?
+a Der 2. Schiedsrichter darf das bereits angepfiffene Spiel nicht unterbrechen, er weist den Antrag ohne weitere Folgen zurück.
+b Der 2. Schiedsrichter unterbricht das Spiel. Der 1. Schiedsrichter lehnt den Antrag ab und spricht eine Verwarnung wegen Verzögerung gegen die Mannschaft wegen des zu spät gestellten Antrages aus.
+c Der 2. Schiedsrichter unterbricht das Spiel. Der 1. Schiedsrichter lehnt den Antrag ab und spricht eine Bestrafung wegen Verzögerung gegen die Mannschaft wegen des zu spät gestellten Antrages aus.
+107 Der Trainer beantragt eine Auszeit beim 2. Schiedsrichter, nachdem der 1. Schiedsrichter bereits zum Aufschlag angepfiffen hat. Dies ist der dritte derartige Vorfall im Spiel. Welche Entscheidung ist richtig?
+a Der 2. Schiedsrichter darf das bereits angepfiffene Spiel nicht unterbrechen, er weist den Antrag ohne weitere Folgen zurück.
+b Der 2. Schiedsrichter unterbricht das Spiel. Der 1. Schiedsrichter lehnt den Antrag ab und spricht eine Verwarnung wegen Verzögerung gegen die Mannschaft wegen des zu spät gestellten Antrages aus.
+c Der 2. Schiedsrichter unterbricht das Spiel. Der 1. Schiedsrichter lehnt den Antrag ab und spricht eine Bestrafung wegen Verzögerung gegen die Mannschaft wegen des zu spät gestellten Antrages aus.
+108 Wie hat der 1. Schiedsrichter zu entscheiden, wenn der Wechsel nicht unverzüglich durchgeführt wird?
+a Punkt und Aufschlag für den Gegner.
+b Der Wechsel wird nicht gewährt und die betreffende Mannschaft erhält (beim ersten Mal) eine Verwarnung wegen Verzögerung.
+c Der Mannschaft wird eine Auszeit auferlegt.
+109 Spielkapitän der Mannschaft A beantragt die dritte Auszeit. Nach Ablehnung des Antrags durch den 2. Schiedsrichter beantragt der Trainer der Mannschaft A sofort im Anschluss den siebten Wechsel. Welche Entscheidung hat der 1. Schiedsrichter zu treffen?
+a Bestrafung der Mannschaft wegen wiederholter Verzögerung.
+b Die Anträge werden ohne jede Ahndung zurückgewiesen.
+c Verwarnung der Mannschaft wegen Verzögerung.
+110 Spielverzögerung. Welche Entscheidung ist beim ersten Mal zu treffen?
+a Verwarnung wegen Verzögerung für die Mannschaft.
+b Spielzuggewinn für den Gegner.
+c Verwarnung wegen unkorrekten Verhaltens für den betreffenden Spieler.
+111 Nach Verwarnung wegen Verzögerung wird das Spiel im nächsten Satz von der gleichen Mannschaft weiter verzögert. Wie ist zu verfahren?
+a Noch eine Verwarnung der Mannschaft wegen Verzögerung.
+b Hinausstellung eines Spielers.
+c Bestrafung der Mannschaft wegen wiederholter Verzögerung.
+112 Wie lange dauert die Pause zwischen den Sätzen?
+a Höchstens eine Minute.
+b Drei Minuten.
+c So lange, bis beide Mannschaften wieder spielbereit sind, jedoch nicht über 3 Minuten.
+113 Seitenwechsel im Entscheidungssatz beim Spielstand von 8:5. Welche Aufstellung wird eingenommen?
+a Nach dem Seitenwechsel wird die gleiche Aufstellung wie unmittelbar vor dem Seitenwechsel eingenommen (es sei denn, das Erreichen des achten Punktes ist auch mit einem Aufschlagwechsel verbunden).
+b Die Gleiche wie am Anfang des Entscheidungssatzes.
+c Die Aufstellung ist frei wählbar.
+114 Der Seitenwechsel wurde im 5. Satz bei 8:5 Punkten nicht durchgeführt. Dieses Versäumnis wird erst bei 14:8 erkannt. Wie wird das Spiel fortgesetzt?
+a Seitenwechsel, Spielstand 8:5.
+b Seitenwechsel, Spielstand 14:8.
+c Kein Seitenwechsel, Spielstand 14:8.
+115 Eine Mannschaft hat einen Libero ordnungsgemäß im Spielberichtsbogen benannt. Welche Aussage ist richtig?
+a Der Libero darf für jeden Hinterspieler eingewechselt werden.
+b Der Libero darf für jeden Hinterspieler eingetauscht werden.
+c Der Libero darf für einen verletzten Spieler ausnahmsweise eingewechselt werden, damit die Mannschaft nicht für unvollständig erklärt werden muss.
+116 Welche Aussage stimmt?
+a Der Libero muss in einer der 12 Zeilen (obere Hälfte) der Rubrik "Mannschaften" und zusätzlich noch in der Zeile "Liberos/Libero Players", sowie auf dem Aufstellungsblatt des 1. Satzes eingetragen sein, damit er die Spielberechtigung als Libero erwirbt.
+b Der Libero muss in einer der 12 Zeilen (obere Hälfte) der Rubrik "Mannschaften" und zusätzlich noch in der Zeile "Liberos/Libero Players" eingetragen sein, damit er die Spielberechtigung als Libero erwirbt.
+c Es ist ausreichend, wenn der Libero auf dem Aufstellungsblatt des 1. Satzes eingetragen wird, um die Spielberechtigung als Libero zu erwerben.
+117 Auf welchen Positionen darf der Libero eingetauscht werden?
+a Auf alle Hinterspielerpositionen.
+b Nur auf den Positionen VI und V.
+c Bei der Annahme auf den Positionen I, VI und V, bei eigenem Aufschlag auf den Positionen VI und V.
+118 Darf ein Libero den Ball nach Absprung in der Hinterzone über das Netz spielen?
+a Ja, wenn sich der Ball bei der Berührung nicht vollständig oberhalb der Netzoberkante befindet.
+b Ja, immer.
+c Nein.
+119 Darf ein Spieler nach einem oberen (Finger-)Zuspiel des Liberos in der eigenen Vorderzone den Ball zum Gegner spielen?
+a Hinterspieler dürfen aus dem Rückraum angreifen, wobei die Höhe der Ballberührung kein Beurteilungskriterium darstellt.
+b Nur Vorderspieler dürfen beim Angriffsschlag den Ball nicht vollständig oberhalb der Netzoberkante berühren.
+c Ja, wenn die Ballberührung beim Angriffsschlag nicht vollständig oberhalb der Netzoberkante erfolgt.
+120 Der Libero spielt den Ball im oberen (Finger-)Zuspiel, nach Absprung im Hinterfeld, im Raum über der Vorderzone, zu einem Angreifer seiner Mannschaft. Welche Entscheidung ist richtig?
+a Der folgende Angriffsschlag muss abgepfiffen werden, denn jedes obere (Finger-)Zuspiel des Liberos in der Vorderzone ist verboten.
+b Für Vorderspieler besteht bezüglich der Höhe der Ballberührung beim Angriffsschlag, keine Einschränkung.
+c Bei einem Angriffsschlag, bei dem die Ballberührung vollständig oberhalb der Netzoberkante erfolgt, ist auf Fehler zu entscheiden.
+121 Es ist eine Austauschaktion mit Beteiligung des Liberos erfolgt. Danach darf er während des Spiels...
+a nach Belieben lange als Vorder- und Hinterspieler auf dem Spielfeld bleiben.
+b nur nach einer Punktestandsänderung durch einen vollendeten Spielzug getauscht werden.
+c nach einer Doppelfehlerentscheidung getauscht werden.
+122 Der Libero soll gleich zu Beginn des Satzes spielen. Wie ist zu verfahren?
+a Der Libero darf sofort das Spielfeld betreten.
+b Der Libero darf erst nach dem ersten Ballwechsel das Spielfeld betreten.
+c Der Libero darf nach der Kontrolle der Startaufstellung das Spielfeld betreten.
+123 Darf der Trainer während des Spiels seinen auf dem Spielfeld befindlichen Spielern Anweisungen erteilen?
+a Nur dann, wenn er auf der Mannschaftsbank sitzt.
+b Nein.
+c Ja.
+124 Der Mannschaftskapitän sitzt auf der Bank und gibt seinen auf dem Spielfeld befindlichen Mitspielern wertvolle Tipps. Ist das erlaubt?
+a Nein.
+b Nur dann, wenn sich kein Trainer auf der Mannschaftsbank befindet.
+c Ja.
+125 Wie ist eine Bestrafung wegen unangemessenen Verhaltens im Spielberichtsbogen einzutragen?
+a Im Feld "Sanktionen" ist in die Spalte "Bestrafung" die Spielernummer, in die Spalte "A oder B" die Mannschaft, in die Spalte "Satz" der Satz und in die Spalte "Spielstand" der Spielstand aus der Sicht der bestraften Mannschaft einzutragen. Gleichzeitig ist der mit dem Spielzugverlust zuerkannte Punkt beim Gegner auf der Punkteskala abzustreichen und einzukreisen.
+b Eintragung nur auf Anordnung des Schiedsrichters.
+c Eintragung im Feld "Bemerkungen“.
+126 Heftige Diskussion eines Spielers mit dem Gegner, nachdem die Mannschaft vom Schiedsrichter zuvor bereits wegen unkorrektem Verhalten verwarnt wurde. Wie hat der 1. Schiedsrichter zu entscheiden?
+a Der Spieler wird bestraft, d.h. Punkt und Aufschlag für den Gegner.
+b Der Spieler wird hinausgestellt.
+c Keine Maßregelung.
+127 Wird nach einer Hinausstellung die betreffende Mannschaft auch noch mit Spielzugverlust bestraft?
+a Ja.
+b Nach Ermessen des 1. Schiedsrichters.
+c Nein.
+128 Wird eine Hinausstellung für einen Teil des laufenden Spiels ausgesprochen?
+a Ja, für eine vollständige Rotation der Mannschaft.
+b Ja, für den Rest des Satzes.
+c Nein.
+129 Erstes beleidigendes Verhalten eines Trainers. Welche Sanktion hat der 1. Schiedsrichter zu verhängen?
+a Hinausstellung.
+b Disqualifikation.
+c Bestrafung wegen unangemessenen Verhaltens.
+130 Ein Spieler wiederholt nach vorangegangener Bestrafung (rote Karte) ein unangemessenes Verhalten. Wie ist zu entscheiden?
+a Noch eine persönliche Bestrafung.
+b Verwarnung der gesamten Mannschaft.
+c Hinausstellung des Spielers.
+131 Wie wird eine Tätlichkeit eines Mannschaftsmitglieds (körperlicher Angriff), die sich gegen Zuschauer richtet, bestraft?
+a Verwarnung und im Wiederholungsfall Hinausstellung.
+b Bestrafung.
+c Disqualifikation.
+132 Wird ein unkorrektes Verhalten dem Spieler über den einzelnen Satz hinaus für das gesamte Spiel angerechnet?
+a Ja.
+b Nach Ermessen des 1. Schiedsrichters.
+c Nein.
+133 Muss der 1. Schiedsrichter jeden zur Spielunterbrechung führenden Regelverstoß anzeigen?
+a Ja, mit möglichst eindeutigen Zeichen und durch mündliche Erläuterung.
+b Ja, mit den Offiziellen Handzeichen.
+c Nein, Anzeigen ist nur erforderlich, wenn Unstimmigkeiten auftreten können.
+134 Was tut der 1. Schiedsrichter bei Vorfällen, die nicht im Regelwerk festgelegt sind?
+a Er entscheidet in eigener Verantwortung.
+b Er überlässt die Entscheidung der Wettkampfleitung.
+c Er befragt das übrige Schiedsgericht, die Mehrheitsentscheidung ist gültig.
+135 Ein Spieler beginnt eine Diskussion mit dem Schiedsrichter und lässt sich nicht abweisen. Welche Entscheidung ist richtig?
+a Keine Maßregelung, wenn der Spieler sich entschuldigt.
+b Verwarnung des Spielers mit der gelben Karte (hat keine weiteren Folgen).
+c Punkt und Aufschlag für den Gegner.
+136 Gehört zu den Aufgaben des 2. Schiedsrichters das Überwachen des Verhaltens der Trainer und Wechselspieler?
+a Ja.
+b Nur auf Verlangen des 1. Schiedsrichters.
+c Nein.
+137 Vor jedem Satz werden die Startaufstellungen beider Mannschaften überprüft. Welche zuerst?
+a Die Vorgehensweise ist nicht festgelegt. Es ist "gängige Praxis", die Startaufstellung der Mannschaft, die den ersten Aufschlag ausführt, zuerst zu überprüfen.
+b Immer die als "A" bezeichnete Mannschaft.
+c Die Startaufstellung der zuerst annehmenden Mannschaft.
+138 Gehört zu den Aufgaben des 2. Schiedsrichters das Überwachen der Mittellinie?
+a Nur auf Verlangen des 1. Schiedsrichters.
+b Ja.
+c Nein.
+139 Hat der 2. Schiedsrichter beim Aufschlag die Überwachung der Positionen (Aufstellung) der annehmenden Mannschaft durchzuführen ?
+a Ja.
+b Nur auf Verlangen des 1. Schiedsrichters.
+c Nein.
+140 Ein Blockspieler berührt beim Block die Netzoberkante auf der Seite des 1. Schiedsrichters. Gehört die Entscheidung darüber auch zu den Aufgaben des 2. Schiedsrichters?
+a Ja.
+b Nein.
+c Nur auf Verlangen des 1. Schiedsrichters.
+141 Gehört es zu den Aufgaben des 2. Schiedsrichters, den Ballflug im Bereich der Antenne auf seiner Spielfeldseite zu überwachen?
+a Ja.
+b Nur auf Verlangen des 1. Schiedsrichters.
+c Nein.
+142 Gehört zu den Aufgaben des 2. Schiedsrichters das Pfeifen und Anzeigen eines regelwidrigen Blockes durch Hinterspieler?
+a Ja.
+b Nur auf seiner Seite zur Unterstützung des 1. Schiedsrichters.
+c Nein.
+143 Bei einem Abwehrversuch berührt der Ball gleichzeitig den Boden und die Finger des Abwehrspielers. Der 2. Schiedsrichter pfeift die Bodenberührung des Balles. Handelt er richtig?
+a Ja, aber nur mit Erlaubnis des 1. Schiedsrichters.
+b Nein, Bodenberührungen darf nur der 1. Schiedsrichter pfeifen.
+c Ja, er muss diese Bodenberührung des Balles pfeifen, falls der 1. Schiedsrichter sie nicht sehen kann.
+144 Wer überprüft während des Spiels die Rotationsfolge beim Aufschlag?
+a Der 1. Schiedsrichter.
+b Der 2. Schiedsrichter.
+c Der Schreiber.
+145 Hat das Schiedsgericht der Mannschaft mitzuteilen, dass ein falscher Spieler den Aufschlag durchführen will?
+a Ja, immer.
+b Ja, aber nur auf Anfrage des Spielkapitäns.
+c Nein, auf keinen Fall.
+146 Muss der Schreiber auf Ersuchen des Spielkapitäns diesem bekannt geben, wie viele Auszeiten bzw. Wechsel von der eigenen Mannschaft bereits beansprucht worden sind?
+a Ja.
+b Nur mit Genehmigung des 1. Schiedsrichters.
+c Nein.
+147 Ist es Aufgabe des Linienrichters, anzuzeigen, wenn ein "Aus-Ball" zuvor von einem Spieler der annehmenden Mannschaft noch berührt worden ist?
+a Ja.
+b Nur, wenn die Schiedsrichter dies nicht erkennen konnten.
+c Nein.
